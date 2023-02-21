@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62464290672",
+    "project_id": "nivin-1012",
+    "storage_bucket": "nivin-1012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62464290672:android:f9daa6aabf27f084f429b5",
+        "android_client_info": {
+          "package_name": "nv.dr_one.nivin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62464290672-kjr41qqvu1ek885mhbcoumvsd2mfqd6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwbdmOoEYChoLDzsoASMXhoOJGDUrAdPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62464290672-kjr41qqvu1ek885mhbcoumvsd2mfqd6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
